@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/agentsettings.tsx","./src/components/officeview.tsx","./src/components/panels.tsx","./src/hooks/useagentconfiguration.ts","./src/hooks/usebackendrun.ts","./src/hooks/usemockreplay.ts","./src/types/agents.ts","./src/types/events.ts"],"version":"5.8.3"}
